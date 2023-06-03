@@ -11,8 +11,6 @@
 
 ................................................................................................................................................................
 
-:e-mail: Si estás interesado en conectarte conmigo, ¡no dudes en enviarme un mensaje! 
-
 :computer: Full Stack developer with experience in Front End and Back End development. 
 
 :point_right: My technical skills include the use of JavaScript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, HTML, CSS, agile methodologies, Git, and data structure.
