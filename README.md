@@ -7,3 +7,5 @@
 🌍 As a passionate traveler, I have developed an open-mindedness and adaptability that is reflected in my ability to approach new challenges with confidence and creativity. Outside of work, yoga and soccer are key elements to my personal well-being and work ethic.
 
 🔗 Connect with me if you are interested in working together and making a positive impact!
+
+📧 analiagiachini@gmail.com
